@@ -72,7 +72,7 @@ Here's a quick summary of resources to help you find your way around:
   security issues; also see our `Security`_ documentation. Security issues are
   tracked separately at https://zephyrprojectsec.atlassian.net.
 * **Zephyr Project Website**: https://zephyrproject.org
-
+ 
 .. _Slack Invite: https://tinyurl.com/y5glwylp
 .. _supported boards: http://docs.zephyrproject.org/latest/boards/index.html
 .. _Zephyr Documentation: http://docs.zephyrproject.org
